@@ -1,0 +1,14 @@
+c:\Users\Madhu sri\practice\practice\bin\Debug\net8.0\practice.exe
+c:\Users\Madhu sri\practice\practice\bin\Debug\net8.0\practice.deps.json
+c:\Users\Madhu sri\practice\practice\bin\Debug\net8.0\practice.runtimeconfig.json
+c:\Users\Madhu sri\practice\practice\bin\Debug\net8.0\practice.dll
+c:\Users\Madhu sri\practice\practice\bin\Debug\net8.0\practice.pdb
+c:\Users\Madhu sri\practice\practice\obj\Debug\net8.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Madhu sri\practice\practice\obj\Debug\net8.0\practice.AssemblyInfoInputs.cache
+c:\Users\Madhu sri\practice\practice\obj\Debug\net8.0\practice.AssemblyInfo.cs
+c:\Users\Madhu sri\practice\practice\obj\Debug\net8.0\practice.csproj.CoreCompileInputs.cache
+c:\Users\Madhu sri\practice\practice\obj\Debug\net8.0\practice.dll
+c:\Users\Madhu sri\practice\practice\obj\Debug\net8.0\refint\practice.dll
+c:\Users\Madhu sri\practice\practice\obj\Debug\net8.0\practice.pdb
+c:\Users\Madhu sri\practice\practice\obj\Debug\net8.0\practice.genruntimeconfig.cache
+c:\Users\Madhu sri\practice\practice\obj\Debug\net8.0\ref\practice.dll
